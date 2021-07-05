@@ -1,0 +1,57 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body {
+    background: rgb(18, 19, 19);
+}
+
+div.primero {
+    margin: 15px 25px;
+    padding: 5px ;
+    color: rgb(254, 255, 255);
+}
+
+
+h1 {
+    font-size: 50px;
+    padding: 20px 10px;
+}
+
+
+
+legend{
+    font-size: 25px;
+    margin: 15px 30px  ;
+    
+}
+
+.tex{
+    font-size: 15px;
+    color: royalblue;
+}
+
+.datos{
+     display: flex;
+     padding: 5px 30px;
+     
+}
+
+.uno{
+    font-size: 20px;
+    padding: 0 50px;
+    margin: 15px;
+}
+.datos-fo{
+    padding: 0 10px;
+    margin: 0  5px;
+}
+
+.datos2{
+    display: flex;
+    padding: 5px 30px;
+    
+}
